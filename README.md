@@ -1,1 +1,1 @@
-# winsock
+# winsock - windows sockets package
